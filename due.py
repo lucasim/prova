@@ -1,4 +1,4 @@
-v 1.5
+v 1.6
 print 'ciao'
 print 'duex'
 print 'ciao Piera w Internet'
